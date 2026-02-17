@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Red Colombiana de Fototrampeo</title>
+    <link>https://example.com/</link>
+    <description>Recent content on Red Colombiana de Fototrampeo</description>
+    <generator>Hugo</generator>
+    <language>es</language>
+    <lastBuildDate>Sun, 15 Feb 2026 12:33:45 +1000</lastBuildDate>
+    <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2026. Monitoreo de biodiversidad usando trampas cámara y modelos ocupación</title>
+      <link>https://example.com/products/curso_jaime_duque/</link>
+      <pubDate>Sun, 15 Feb 2026 12:33:45 +1000</pubDate>
+      <guid>https://example.com/products/curso_jaime_duque/</guid>
+      <description>&lt;p&gt;Curso de monitoreo de biodiversidad usando trampas cámara y modelos ocupación&#xA;Marzo 13, 14 y 15 de 2026.&lt;/p&gt;&#xA;&lt;p&gt;¿Usas trampas cámara, pero quieres llevar tu monitoreo al siguiente nivel?&#xA;Este curso es para ti.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://example.com/img/curso/curso_2026s.jpg&#34; alt=&#34;Curso 2026&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Aprende a diseñar estudios sólidos y a analizar tus datos con modelos de ocupación, estimación de abundancia y densidad poblacional, utilizando métodos estadísticos modernos como máxima verosimilitud y enfoques bayesianos.&#xA;🔎 No es solo instalar cámaras:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>https://example.com/about/</link>
+      <pubDate>Wed, 28 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.com/about/</guid>
+      <description>&lt;p&gt;Funciona como articulación formal para la consolidación de información en la que participan mas de 20 instituciones y 45 investigadores.&lt;/p&gt;&#xA;&lt;p&gt;Los retos del fototrampeo en Colombia fueron identificados por sus miembros. Estos están centrados en aumentar la cobertura geográfica y taxonómica de los muestreos, homogenizar y proponer nuevos diseños de muestreo y análisis, reducir los tiempos en el procesamiento de datos y buscar los mecanismos para incidir de manera efectiva en los tomadores de decisiones, quienes requieren de información útil y especializada para el diseño de estrategias de conservación y manejo.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Unete a la comunidad</title>
+      <link>https://example.com/blog/2025-11-01-grupo/index.en/</link>
+      <pubDate>Sat, 01 Nov 2025 21:13:14 -0500</pubDate>
+      <guid>https://example.com/blog/2025-11-01-grupo/index.en/</guid>
+      <description>&lt;h1 id=&#34;grupo-en-google&#34;&gt;Grupo en google&lt;/h1&gt;&#xA;&lt;p&gt;Únete a la comunidad de usuarios de camaras trampa en este &lt;a href=&#34;https://groups.google.com/g/red_col_fototrampeo&#34;&gt;grupo de google&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Antes de enviar una pregunta al grupo, por favor haga una busqueda en los archivos anteriores para encontrar si su pregunta ya fue respondida o si hay un topico similar.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Dias de camara trampa</title>
+      <link>https://example.com/blog/dias-camara-trampa/</link>
+      <pubDate>Wed, 24 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/blog/dias-camara-trampa/</guid>
+      <description>&lt;p&gt;Presentación de Angelica Diaz-Pulido en el simposio de Fototrampeo del cuarto congreso colombiano de mastozoologia.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contacto</title>
+      <link>https://example.com/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/contact/</guid>
+      <description>&lt;p&gt;Para contactarnos llene el formulario.&lt;/p&gt;&#xA;&lt;form name=&#34;contact&#34; action=&#34;https://forminit.com/f/4jvx67pgdz1&#34; method=&#34;POST&#34; class=&#34;flex flex-col gap-4&#34;&gt;&#xD;&#xA;    &lt;div class=&#34;input&#34;&gt;&#xD;&#xA;        &lt;input type=&#34;text&#34; placeholder=&#34;Name&#34; name=&#34;name&#34; class=&#34;w-full p-4 bg-gray-200 border border-gray-200 focus:outline-none focus:bg-white focus:border-gray-500&#34; required&gt;&#xD;&#xA;    &lt;/div&gt;&#xD;&#xA;    &lt;div class=&#34;input&#34;&gt;&#xD;&#xA;        &lt;input type=&#34;text&#34; placeholder=&#34;E-Mail&#34; name=&#34;mail&#34; class=&#34;w-full p-4 bg-gray-200 border border-gray-200 focus:outline-none focus:bg-white focus:border-gray-500&#34; required&gt;&#xD;&#xA;    &lt;/div&gt;&#xD;&#xA;    &lt;div class=&#34;input&#34;&gt;&#xD;&#xA;        &lt;input type=&#34;text&#34; placeholder=&#34;Title&#34; name=&#34;title&#34; class=&#34;w-full p-4 bg-gray-200 border border-gray-200 focus:outline-none focus:bg-white focus:border-gray-500&#34; required&gt;&#xD;&#xA;    &lt;/div&gt;&#xD;&#xA;    &lt;div class=&#34;input&#34;&gt;&#xD;&#xA;        &lt;textarea rows=&#34;5&#34; cols=&#34;30&#34; placeholder=&#34;Message&#34; name=&#34;message&#34; class=&#34;w-full p-4 bg-gray-200 border border-gray-200 focus:outline-none focus:bg-white focus:border-gray-500&#34; required&gt;&lt;/textarea&gt;&#xD;&#xA;    &lt;/div&gt;&#xD;&#xA;    &lt;input type=&#34;submit&#34; value=&#34;Submit&#34; class=&#34;px-8 py-2 duration-200 bg-gray-800 text-white cursor-pointer transition-colors hover:bg-gray-400&#34;&gt;&#xD;&#xA;&lt;/form&gt;</description>
+    </item>
+  </channel>
+</rss>

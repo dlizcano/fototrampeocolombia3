@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cursos on Red Colombiana de Fototrampeo</title>
+    <link>https://example.com/products/</link>
+    <description>Recent content in Cursos on Red Colombiana de Fototrampeo</description>
+    <generator>Hugo</generator>
+    <language>es</language>
+    <lastBuildDate>Sun, 15 Feb 2026 12:33:45 +1000</lastBuildDate>
+    <atom:link href="https://example.com/products/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2026. Monitoreo de biodiversidad usando trampas cámara y modelos ocupación</title>
+      <link>https://example.com/products/curso_jaime_duque/</link>
+      <pubDate>Sun, 15 Feb 2026 12:33:45 +1000</pubDate>
+      <guid>https://example.com/products/curso_jaime_duque/</guid>
+      <description>&lt;p&gt;Curso de monitoreo de biodiversidad usando trampas cámara y modelos ocupación&#xA;Marzo 13, 14 y 15 de 2026.&lt;/p&gt;&#xA;&lt;p&gt;¿Usas trampas cámara, pero quieres llevar tu monitoreo al siguiente nivel?&#xA;Este curso es para ti.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://example.com/img/curso/curso_2026s.jpg&#34; alt=&#34;Curso 2026&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Aprende a diseñar estudios sólidos y a analizar tus datos con modelos de ocupación, estimación de abundancia y densidad poblacional, utilizando métodos estadísticos modernos como máxima verosimilitud y enfoques bayesianos.&#xA;🔎 No es solo instalar cámaras:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,94 @@
+baseURL: https://example.com
+title: Red Colombiana de Fototrampeo
+author: Diego J. Lizcano
+languageCode: es
+DefaultContentLanguage: es
+enableInlineShortcodes: true
+theme: tella
+enableRobotsTXT: true
+services:
+  disqus: {}
+  googleAnalytics: {}
+params:
+  giscus: {}
+  googleFonts: true
+  homepage_meta_tags:
+    meta_description: Red Colombiana de Fototrampeo
+    meta_og_description: Red Colombiana de Fototrampeo. Conectamos a los usuarios de camaras trampa en Colombia
+    meta_og_image: img/preview.jpg
+    meta_og_title: RCFT
+    meta_og_type: website
+    meta_og_url: https://redfototrampeo.netlify.app/
+    meta_twitter_card: summary_large_image
+    meta_twitter_creator: '@dlizcano'
+    meta_twitter_site: '@dlizcano'
+  icon:
+    bootstrap: true
+  logo:
+    alt: Red Logo
+    main: img/logo/logo_red_negro.png
+    size: h-12
+  mainSections: blog
+  showBlog: true
+  site:
+    name: Red Colombiana de Fototrampeo
+menu:
+  footer:
+    - name: Home
+      url: /
+      weight: 1
+    - name: Github
+      url: https://github.com/dlizcano/fototrampeocolombia
+      weight: 2
+  main:
+    - identifier: cursos
+      name: Cursos
+      url: /products/
+      weight: 1
+    - identifier: blog
+      name: Blog
+      url: /blog/
+      weight: 2
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 3
+    - identifier: contact
+      name: Contact
+      url: /contact/
+      weight: 4
+taxonomies:
+  category: categories
+  series: series
+  tag: tags
+privacy:
+  instagram:
+    disabled: false
+    simple: false
+  vimeo:
+    disabled: false
+    simple: false
+  x:
+    disabled: false
+    enableDNT: true
+    simple: false
+  youtube:
+    disabled: false
+    privacyEnhanced: true
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+build:
+  buildStats:
+    enable: true
+  cachebusters:
+    - source: assets/notwatching/hugo_stats\.json
+      target: css
+module:
+  mounts:
+    - source: assets
+      target: assets
+    - disableWatch: true
+      source: hugo_stats.json
+      target: assets/notwatching/hugo_stats.json

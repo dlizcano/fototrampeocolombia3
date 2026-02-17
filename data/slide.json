@@ -1,0 +1,16 @@
+[
+  {
+    "title": "Red Colombiana de Fototrampeo",
+    "image": "img/slide/header1.jpg"
+  },
+  {
+    "title": "El punto de enlace para quienes usan trampas cámara",
+    "image": "img/slide/header2.jpg",
+    "color": "text-black"
+  },
+    {
+    "title": "Visibiliza tus datos y encuentra colaboradores.",
+    "image": "img/slide/header3.jpg",
+    "color": "text-black"
+  }
+]
