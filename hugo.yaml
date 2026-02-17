@@ -1,8 +1,8 @@
 baseURL: https://example.com
 title: Red Colombiana de Fototrampeo
 author: Diego J. Lizcano
-languageCode: es
-DefaultContentLanguage: es
+languageCode: en
+DefaultContentLanguage: en
 enableInlineShortcodes: true
 theme: tella
 enableRobotsTXT: true
