@@ -5,10 +5,10 @@
     <loc>https://example.com/products/curso_jaime_duque/</loc>
     <lastmod>2026-02-15T12:33:45+10:00</lastmod>
   </url><url>
-    <loc>https://example.com/</loc>
+    <loc>https://example.com/products/</loc>
     <lastmod>2026-02-15T12:33:45+10:00</lastmod>
   </url><url>
-    <loc>https://example.com/products/</loc>
+    <loc>https://example.com/</loc>
     <lastmod>2026-02-15T12:33:45+10:00</lastmod>
   </url><url>
     <loc>https://example.com/about/</loc>
@@ -38,7 +38,7 @@
     <loc>https://example.com/tags/</loc>
     <lastmod>2025-11-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://example.com/blog/2025-11-01-grupo/index.en/</loc>
+    <loc>https://example.com/blog/2025-11-01-grupo/</loc>
     <lastmod>2025-11-01T21:13:14-05:00</lastmod>
   </url><url>
     <loc>https://example.com/tags/congreso/</loc>
