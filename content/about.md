@@ -1,7 +1,7 @@
 ---
-author: Angelica Diaz-Pulido
+author: "Angelica Diaz-Pulido"
 date: '2026-01-28'
-description: Que hace la Red Colombiana de Fototrampeo?
+description: "Que hace la Red Colombiana de Fototrampeo?"
 title: About
 ---
 
