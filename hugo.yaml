@@ -1,4 +1,4 @@
-baseURL: https://example.com
+baseURL: https://redfototrampeo.netlify.app
 title: Red Colombiana de Fototrampeo
 author: Diego J. Lizcano
 languageCode: en
@@ -25,7 +25,7 @@ params:
   icon:
     bootstrap: true
   logo:
-    alt: Red Logo
+    alt: Red Colombiana de Fototrampeo Logo
     main: img/logo/logo_red_negro.png
     size: h-12
   mainSections: blog
@@ -36,9 +36,11 @@ menu:
   footer:
     - name: Home
       url: /
+      pre: <i class="bi bi-house-fill"></i>
       weight: 1
     - name: Github
       url: https://github.com/dlizcano/fototrampeocolombia
+      pre: <i class="bi bi-github"></i>
       weight: 2
   main:
     - identifier: cursos

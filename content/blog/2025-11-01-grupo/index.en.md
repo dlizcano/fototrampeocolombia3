@@ -9,7 +9,7 @@ tags: ["R Markdown", "plot", "regression"]
 
 
 
-# Grupo en google
+# Grupo de google
 
 Únete a la comunidad de usuarios de camaras trampa en este [grupo de google](https://groups.google.com/g/red_col_fototrampeo)
 

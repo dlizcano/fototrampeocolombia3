@@ -2,7 +2,7 @@
 title: Contacto
 ---
 
-Para contactarnos llene el formulario.
+Para contactarnos por favor llene el formulario.
 
 
 
