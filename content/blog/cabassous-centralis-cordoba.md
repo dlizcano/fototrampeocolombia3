@@ -1,7 +1,7 @@
 ---
 author: Diego J. Lizcano
 categories:
-  - Artículo
+  - Articulo
 date: '2019-04-28'
 image: "img/blog/cabassous_cordoba.jpg"
 description: Primer registro del armadillo coletrapo (Cabassous centralis) mediante cámaras trampas en el departamento de Córdoba, Colombia

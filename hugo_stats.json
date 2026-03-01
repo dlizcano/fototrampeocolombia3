@@ -280,7 +280,9 @@
       "z-50"
     ],
     "ids": [
+      "agradecimiento",
       "contact-form",
+      "detalles-de-la-revisión",
       "detalles-del-estudio",
       "enlace-al-documento",
       "estudio",
@@ -293,6 +295,7 @@
       "objetivos",
       "overlay",
       "result",
+      "revisión",
       "thumb",
       "url",
       "video-de-youtube"

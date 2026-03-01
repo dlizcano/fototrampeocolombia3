@@ -21,7 +21,7 @@ Algunas recomendaciones sobre su uso, programas disponibles para manejar archivo
 Como muchos biólogos interesados en monitorear o estudiar mamíferos medianos y grandes, en estado silvestre, me he enfrentado a las clásicas preguntas como: ¿cuántas cámaras necesito?, ¿Qué cámara compramos?, ¿cómo las instalo? ¿Qué protocolos sigo? ¿Y qué más puedo hacer con esos datos? En esta corta revisión pretendo resumir las respuestas a esas preguntas y compartir mi experiencia como usuario de las trampas cámara, después de haber probado varias opciones. Las recomendaciones son para antes, durante y después de usar las cámaras.
 
 
-### Detalles de la revision 
+### Detalles de la revisión 
 
 - **Antes de usar las trampas cámara** 
 - **Durante la instalación de las trampas cámara**
