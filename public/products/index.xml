@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cursos on Red Colombiana de Fototrampeo</title>
-    <link>https://redfototrampeo.netlify.app/products/</link>
+    <link>http://localhost:1313/products/</link>
     <description>Recent content in Cursos on Red Colombiana de Fototrampeo</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 15 Feb 2026 12:33:45 +1000</lastBuildDate>
-    <atom:link href="https://redfototrampeo.netlify.app/products/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/products/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2026. Monitoreo de biodiversidad usando trampas cámara y modelos ocupación</title>
-      <link>https://redfototrampeo.netlify.app/products/curso_jaime_duque/</link>
+      <link>http://localhost:1313/products/curso_jaime_duque/</link>
       <pubDate>Sun, 15 Feb 2026 12:33:45 +1000</pubDate>
-      <guid>https://redfototrampeo.netlify.app/products/curso_jaime_duque/</guid>
-      <description>&lt;p&gt;Curso de monitoreo de biodiversidad usando trampas cámara y modelos ocupación&#xA;Marzo 13, 14 y 15 de 2026.&lt;/p&gt;&#xA;&lt;p&gt;¿Usas trampas cámara, pero quieres llevar tu monitoreo al siguiente nivel?&#xA;Este curso es para ti.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://redfototrampeo.netlify.app/img/curso/curso_2026s.jpg&#34; alt=&#34;Curso 2026&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Aprende a diseñar estudios sólidos y a analizar tus datos con modelos de ocupación, estimación de abundancia y densidad poblacional, utilizando métodos estadísticos modernos como máxima verosimilitud y enfoques bayesianos.&#xA;🔎 No es solo instalar cámaras:&lt;/p&gt;</description>
+      <guid>http://localhost:1313/products/curso_jaime_duque/</guid>
+      <description>Curso de monitoreo de biodiversidad usando trampas cámara y modelos ocupación Marzo 13, 14 y 15 de 2026.&#xA;¿Usas trampas cámara, pero quieres llevar tu monitoreo al siguiente nivel? Este curso es para ti.&#xA;Aprende a diseñar estudios sólidos y a analizar tus datos con modelos de ocupación, estimación de abundancia y densidad poblacional, utilizando métodos estadísticos modernos como máxima verosimilitud y enfoques bayesianos. 🔎 No es solo instalar cámaras:</description>
     </item>
     <item>
       <title>2024. Introducción al fototrampeo</title>
-      <link>https://redfototrampeo.netlify.app/products/curso_icn/</link>
+      <link>http://localhost:1313/products/curso_icn/</link>
       <pubDate>Tue, 10 Dec 2024 12:33:45 +1000</pubDate>
-      <guid>https://redfototrampeo.netlify.app/products/curso_icn/</guid>
-      <description>&lt;p&gt;Curso Introducción al fototrampeo realizado en el Instituto de ciencias naturales (ICN), de la Universidad Nacional de Colombia en Bogota en Diciembre 2024.&lt;/p&gt;&#xA;&lt;p&gt;En este curso hacimos una introducción general al fototrampeo donde los participantes entiendan como funcionan las cámaras trampa, que consideraciones se deben tener en cuenta para el diseño de un estudio con fototrampeo, así como una introducción a tres análisis básicos (abundancia relativa, estimación de riqueza y patrones de actividad).&lt;/p&gt;</description>
+      <guid>http://localhost:1313/products/curso_icn/</guid>
+      <description>Curso Introducción al fototrampeo realizado en el Instituto de ciencias naturales (ICN), de la Universidad Nacional de Colombia en Bogota en Diciembre 2024.&#xA;En este curso hacimos una introducción general al fototrampeo donde los participantes entiendan como funcionan las cámaras trampa, que consideraciones se deben tener en cuenta para el diseño de un estudio con fototrampeo, así como una introducción a tres análisis básicos (abundancia relativa, estimación de riqueza y patrones de actividad).</description>
     </item>
     <item>
       <title>2019. Monitoreo de Biodiversidad con datos de trampa cámara y modelos de ocupación.</title>
-      <link>https://redfototrampeo.netlify.app/products/curso_piamonte/</link>
+      <link>http://localhost:1313/products/curso_piamonte/</link>
       <pubDate>Fri, 12 Jul 2019 12:33:45 +1000</pubDate>
-      <guid>https://redfototrampeo.netlify.app/products/curso_piamonte/</guid>
-      <description>&lt;p&gt;Curso de monitoreo de biodiversidad usando trampas cámara y modelos ocupación&#xA;Agosto  12 al 17 de 2019.&lt;/p&gt;&#xA;&lt;p&gt;El curso conto con una nómina docente de colegas de lujo: Angelica Diaz-Pulido, Mauricio Vela, Juliana Velez y Bibiana Gomez, y sucedió en la estación Guayuyaco de Conservacion Internacional. La estación me impresiono muy gratamente pues tiene la infraestructura básica de alojamiento, energía 24 horas y conexión a internet en un sitio bien apartado y remoto. El alojamiento fue en habitaciones compartidas con camarotes. Se puede llegar a la estación desde Mocoa o Villa Garzon y por tierra desde Pasto, Pitalito o Florencia. Algunos participante llegaron incluso desde Ecuador.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/products/curso_piamonte/</guid>
+      <description>Curso de monitoreo de biodiversidad usando trampas cámara y modelos ocupación Agosto 12 al 17 de 2019.&#xA;El curso conto con una nómina docente de colegas de lujo: Angelica Diaz-Pulido, Mauricio Vela, Juliana Velez y Bibiana Gomez, y sucedió en la estación Guayuyaco de Conservacion Internacional. La estación me impresiono muy gratamente pues tiene la infraestructura básica de alojamiento, energía 24 horas y conexión a internet en un sitio bien apartado y remoto.</description>
     </item>
   </channel>
 </rss>
