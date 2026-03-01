@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Córdoba on Red Colombiana de Fototrampeo</title>
+    <link>https://redfototrampeo.netlify.app/tags/c%C3%B3rdoba/</link>
+    <description>Recent content in Córdoba on Red Colombiana de Fototrampeo</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 28 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://redfototrampeo.netlify.app/tags/c%C3%B3rdoba/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Armadillo Coletrapo en Cárdoba - Primer registro con cámaras trampas</title>
+      <link>https://redfototrampeo.netlify.app/blog/cabassous-centralis-cordoba/</link>
+      <pubDate>Sun, 28 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://redfototrampeo.netlify.app/blog/cabassous-centralis-cordoba/</guid>
+      <description>&lt;p&gt;Descubrimiento del armadillo coletrapo (&lt;em&gt;Cabassous centralis&lt;/em&gt;) en el departamento de Córdoba, Colombia, documentado mediante el uso de cámaras trampas. Este hallazgo representa una importante ampliación en el conocimiento de la distribución de esta especie críptica en la región Caribe Colombiana.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -24,3 +24,5 @@ Aprende a diseñar estudios sólidos y a analizar tus datos con modelos de ocupa
 - Es reducir sesgos.
 - Es producir resultados confiables y defendibles.
 - Enfoca el análisis en la toma de decisiones reales de manejo y conservación.
+
+

@@ -29,5 +29,12 @@
       <guid>https://redfototrampeo.netlify.app/categories/resultado/</guid>
       <description></description>
     </item>
+    <item>
+      <title>Artículo</title>
+      <link>https://redfototrampeo.netlify.app/categories/art%C3%ADculo/</link>
+      <pubDate>Sun, 28 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://redfototrampeo.netlify.app/categories/art%C3%ADculo/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
