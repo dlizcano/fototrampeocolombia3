@@ -4,7 +4,8 @@ categories:
   - Articulo
 date: '2018-04-28'
 image: "img/blog/Wild_ID-Wildlifeinsights.png"
-description: Trampas cámara como herramienta para estudiar mamíferos silvestres.
+description: Algunas recomendaciones sobre su uso, programas disponibles para manejar archivos y posibilidades adicionales con los datos.
+title: Trampas cámara como herramienta para estudiar mamíferos silvestres
 tags:
   - metodo
   - fototrampeo
