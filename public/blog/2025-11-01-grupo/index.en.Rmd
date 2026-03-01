@@ -11,7 +11,7 @@ tags: ["R Markdown", "plot", "regression"]
 knitr::opts_chunk$set(collapse = TRUE)
 ```
 
-# Grupo de google
+# Grupo en google
 
 Únete a la comunidad de usuarios de camaras trampa en este [grupo de google](https://groups.google.com/g/red_col_fototrampeo)
 

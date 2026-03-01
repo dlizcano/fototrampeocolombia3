@@ -19,12 +19,13 @@
 {{ end }}
 {{ with resources.Get "css/style.css" }}
   {{ $opts := dict "minify" (not hugo.IsDevelopment) }}
-  {{ $styles := . }}
-  {{ if hugo.IsDevelopment }}
-    <link rel="stylesheet" href="{{ $styles.RelPermalink }}">
-  {{ else }}
-    {{ with $styles | minify | fingerprint }}
-      <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous">
+  {{ with . | css.TailwindCSS $opts }}
+    {{ if hugo.IsDevelopment }}
+      <link rel="stylesheet" href="{{ .RelPermalink }}">
+    {{ else }}
+      {{ with . | fingerprint }}
+        <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous">
+      {{ end }}
     {{ end }}
   {{ end }}
 {{ end }}

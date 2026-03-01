@@ -2,38 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Red Colombiana de Fototrampeo</title>
-    <link>http://localhost:1313/categories/</link>
+    <link>https://redfototrampeo.netlify.app/categories/</link>
     <description>Recent content in Categories on Red Colombiana de Fototrampeo</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 01 Nov 2025 21:13:14 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://redfototrampeo.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Grupo</title>
-      <link>http://localhost:1313/categories/grupo/</link>
+      <link>https://redfototrampeo.netlify.app/categories/grupo/</link>
       <pubDate>Sat, 01 Nov 2025 21:13:14 -0500</pubDate>
-      <guid>http://localhost:1313/categories/grupo/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Camara Trampa</title>
-      <link>http://localhost:1313/categories/camara-trampa/</link>
-      <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/camara-trampa/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Resultado</title>
-      <link>http://localhost:1313/categories/resultado/</link>
-      <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/resultado/</guid>
+      <guid>https://redfototrampeo.netlify.app/categories/grupo/</guid>
       <description></description>
     </item>
     <item>
       <title>Dias</title>
-      <link>http://localhost:1313/categories/dias/</link>
+      <link>https://redfototrampeo.netlify.app/categories/dias/</link>
       <pubDate>Wed, 24 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/dias/</guid>
+      <guid>https://redfototrampeo.netlify.app/categories/dias/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Resultado</title>
+      <link>https://redfototrampeo.netlify.app/categories/resultado/</link>
+      <pubDate>Wed, 24 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://redfototrampeo.netlify.app/categories/resultado/</guid>
       <description></description>
     </item>
   </channel>
