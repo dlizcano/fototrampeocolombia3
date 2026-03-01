@@ -2,75 +2,90 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://redfototrampeo.netlify.app/products/curso_jaime_duque/</loc>
+    <loc>http://localhost:1313/products/curso_jaime_duque/</loc>
     <lastmod>2026-02-15T12:33:45+10:00</lastmod>
   </url><url>
-    <loc>https://redfototrampeo.netlify.app/products/curso_icn/</loc>
+    <loc>http://localhost:1313/products/curso_icn/</loc>
     <lastmod>2024-12-10T12:33:45+10:00</lastmod>
   </url><url>
-    <loc>https://redfototrampeo.netlify.app/products/curso_piamonte/</loc>
+    <loc>http://localhost:1313/products/curso_piamonte/</loc>
     <lastmod>2019-07-12T12:33:45+10:00</lastmod>
   </url><url>
-    <loc>https://redfototrampeo.netlify.app/products/</loc>
+    <loc>http://localhost:1313/products/</loc>
     <lastmod>2026-02-15T12:33:45+10:00</lastmod>
   </url><url>
-    <loc>https://redfototrampeo.netlify.app/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2026-02-15T12:33:45+10:00</lastmod>
   </url><url>
-    <loc>https://redfototrampeo.netlify.app/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
     <lastmod>2026-01-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://redfototrampeo.netlify.app/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <lastmod>2025-11-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://redfototrampeo.netlify.app/categories/grupo/</loc>
+    <loc>http://localhost:1313/categories/grupo/</loc>
     <lastmod>2025-11-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://redfototrampeo.netlify.app/tags/index/</loc>
+    <loc>http://localhost:1313/tags/index/</loc>
     <lastmod>2025-11-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://redfototrampeo.netlify.app/tags/plot/</loc>
+    <loc>http://localhost:1313/tags/plot/</loc>
     <lastmod>2025-11-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://redfototrampeo.netlify.app/blog/</loc>
+    <loc>http://localhost:1313/blog/</loc>
     <lastmod>2025-11-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://redfototrampeo.netlify.app/tags/r-markdown/</loc>
+    <loc>http://localhost:1313/tags/r-markdown/</loc>
     <lastmod>2025-11-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://redfototrampeo.netlify.app/tags/regression/</loc>
+    <loc>http://localhost:1313/tags/regression/</loc>
     <lastmod>2025-11-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://redfototrampeo.netlify.app/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-11-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://redfototrampeo.netlify.app/blog/2025-11-01-grupo/</loc>
+    <loc>http://localhost:1313/blog/2025-11-01-grupo/</loc>
     <lastmod>2025-11-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://redfototrampeo.netlify.app/tags/congreso/</loc>
+    <loc>http://localhost:1313/tags/armadillo/</loc>
+    <lastmod>2025-02-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/cabassous-centralis-cordoba/</loc>
+    <lastmod>2025-02-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/cabassous-centralis/</loc>
+    <lastmod>2025-02-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/camara-trampa/</loc>
+    <lastmod>2025-02-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/c%C3%B3rdoba/</loc>
+    <lastmod>2025-02-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/resultado/</loc>
+    <lastmod>2025-02-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/congreso/</loc>
     <lastmod>2021-11-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://redfototrampeo.netlify.app/categories/dias/</loc>
+    <loc>http://localhost:1313/categories/dias/</loc>
     <lastmod>2021-11-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://redfototrampeo.netlify.app/blog/dias-camara-trampa/</loc>
+    <loc>http://localhost:1313/blog/dias-camara-trampa/</loc>
     <lastmod>2021-11-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://redfototrampeo.netlify.app/series/dias-de-camara-trampa/</loc>
+    <loc>http://localhost:1313/series/dias-de-camara-trampa/</loc>
     <lastmod>2021-11-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://redfototrampeo.netlify.app/categories/resultado/</loc>
+    <loc>http://localhost:1313/series/</loc>
     <lastmod>2021-11-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://redfototrampeo.netlify.app/series/</loc>
+    <loc>http://localhost:1313/tags/simposio/</loc>
     <lastmod>2021-11-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://redfototrampeo.netlify.app/tags/simposio/</loc>
+    <loc>http://localhost:1313/tags/video/</loc>
     <lastmod>2021-11-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://redfototrampeo.netlify.app/tags/video/</loc>
-    <lastmod>2021-11-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://redfototrampeo.netlify.app/contact/</loc>
+    <loc>http://localhost:1313/contact/</loc>
   </url>
 </urlset>
