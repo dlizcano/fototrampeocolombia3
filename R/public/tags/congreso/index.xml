@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Congreso on Red Colombiana de Fototrampeo</title>
+    <link>https://redfototrampeo.netlify.app/tags/congreso/</link>
+    <description>Recent content in Congreso on Red Colombiana de Fototrampeo</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 24 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://redfototrampeo.netlify.app/tags/congreso/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dias de camara trampa</title>
+      <link>https://redfototrampeo.netlify.app/blog/dias-camara-trampa/</link>
+      <pubDate>Wed, 24 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://redfototrampeo.netlify.app/blog/dias-camara-trampa/</guid>
+      <description>&lt;p&gt;Presentación de Angelica Diaz-Pulido en el simposio de Fototrampeo del cuarto congreso colombiano de mastozoologia.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

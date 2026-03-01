@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Metodo on Red Colombiana de Fototrampeo</title>
+    <link>https://redfototrampeo.netlify.app/tags/metodo/</link>
+    <description>Recent content in Metodo on Red Colombiana de Fototrampeo</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 28 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://redfototrampeo.netlify.app/tags/metodo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://redfototrampeo.netlify.app/blog/trampas-camara/</link>
+      <pubDate>Sat, 28 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://redfototrampeo.netlify.app/blog/trampas-camara/</guid>
+      <description>&lt;p&gt;Algunas recomendaciones sobre su uso, programas disponibles para manejar archivos y posibilidades adicionales con los datos.&lt;/p&gt;&#xA;&lt;p&gt;Éste es un artículo de revisión que surgió paralelammente a la Red Colombiana de Fototrampeo.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

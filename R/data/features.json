@@ -1,0 +1,19 @@
+[
+  {
+    "title": "Conocer otras iniciativas",
+    "description": "Entérate del trabajo que se realiza y ayúdanos a construir comunidad.",
+    "icon": "bi bi-binoculars"
+  },
+  {
+    "title": "Análisis conjuntos",
+    "description": "Úsenos como herramienta para encontrar los datos que requiere.",
+    "link": "/blog/dias-camara-trampa",
+    "icon": "bi bi-bar-chart-line"
+  },
+  {
+    "title": "Estar actualizado",
+    "description": "Brindamos información y proporcionamos capacitación.",
+    "link": "/products",
+    "icon": "bi bi-mortarboard"
+  }
+]
