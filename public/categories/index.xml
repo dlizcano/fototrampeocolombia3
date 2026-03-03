@@ -6,8 +6,15 @@
     <description>Recent content in Categories on Red Colombiana de Fototrampeo</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 01 Nov 2025 21:13:14 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 01 Feb 2026 21:13:14 -0500</lastBuildDate>
     <atom:link href="https://redfototrampeo.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Datos</title>
+      <link>https://redfototrampeo.netlify.app/categories/datos/</link>
+      <pubDate>Sun, 01 Feb 2026 21:13:14 -0500</pubDate>
+      <guid>https://redfototrampeo.netlify.app/categories/datos/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Grupo</title>
       <link>https://redfototrampeo.netlify.app/categories/grupo/</link>

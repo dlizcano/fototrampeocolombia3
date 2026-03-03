@@ -1,0 +1,69 @@
+---
+title: "Mapa de la Red"
+author: "Diego J. Lizcano"
+image: "img/blog/mapa.jpg"
+date: 2026-02-01T21:13:14-05:00
+categories: ["datos"]
+tags: ["mapa", "cámaras", "contacto"]
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+# Donde hay datos y quien los tomó ?
+
+Únete a la red compartiendo los datos de localización de tus cámaras y tus datos de contacto. [**Llena este formulario**](https://forms.gle/2w9Gt8hWWs1ARSsD9).
+
+Animate a contactar a los propietarios de los datos para iniciar nuevas colaboraciones.  
+
+
+
+
+```{r map, eval=TRUE, echo=FALSE, warning=FALSE, message=FALSE, fig.cap='Mapa de camaras de los miembros de la red.'}
+
+library(gsheet)
+library(tmap)
+library(tidyverse)
+library(sf)
+library(mapview)
+
+# Read camera points
+url <- 'https://docs.google.com/spreadsheets/d/15Vgk7eY87B1uqyGHc7zh_W-ejZehR6mqrnuWPNPCm1c/edit?usp=sharing'
+cameras <- gsheet2tbl(url)
+
+camtoplot <- cameras |> st_as_sf(coords = c("Longitud", "Latitud"), 
+                                 crs = 4326, remove = TRUE) |> 
+                        select("Investigadores", 
+                               "Email Address", 
+                               "Institución", 
+                               "Fecha Inicio",
+                               "Fecha Finalización",
+                               "Tipo de estudio")
+
+
+## to view mode
+# tmap_mode("view")
+
+# tm_shape(camtoplot) +
+#  tm_symbols(
+#     size = 0.25,
+#     fill = "Institución",
+#     col = "black",
+#     # size.scale = tm_scale_continuous(values.scale = 2),
+#     # fill.scale = tm_scale_intervals(n = 5, values = "-tol.rainbow_wh_br")
+#     fill.legend = tm_legend_hide()
+#     ) + tm_basemap("Esri.WorldStreetMap")
+# 
+
+
+mapview(camtoplot, 
+        zcol = "Institución", 
+        legend = FALSE,
+        map.types = c("Esri.WorldStreetMap", "CartoDB.Voyager"),
+        cex=1.5,
+        alpha = 0)
+
+```
+
+Mapa localización de cámaras de los miembros de la Red Colombiana de Fototrampeo. 
